@@ -2,6 +2,8 @@
 
 A concise **React + Vite** frontend demo that displays and manages products using in-memory sample data.
 
+live:https://project-dashboard123.netlify.app/
+
 ## Key Features ✅
 - Toggle between **Table** and **Card** views
 - Add / Edit products with client-side validation
